@@ -46,9 +46,17 @@ fraudguard-africa/
 └── README.md
 ```
 ## How to Run the Project
+### Dataset
+The dataset is not included in this repository because of its size.
+
+Download the PaySim dataset from Kaggle:
+https://www.kaggle.com/datasets/ealaxi/paysim1
+
+Place the CSV file inside the `data/` folder.
+
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/fraudguard-africa.git
+git clone https://github.com/Johnpaul10j/fraudguard-africa.git
 cd fraudguard-africa
 ```
 2. Create virtual environment
