@@ -4,6 +4,10 @@
 
 FraudGuard Africa is an end-to-end machine learning system designed to detect fraudulent mobile money transactions in real-time. The project focuses on the African fintech ecosystem and is built to be practical, explainable, and production-ready.
 
+## 🚀 Live Demo
+
+Try the live application here:  
+**[FraudGuard Africa Live Demo](https://fraudguard-africa-gh7cmpkqmwbmynndfnqyr2.streamlit.app/)**
 ---
 
 ## 📌 Project Overview
